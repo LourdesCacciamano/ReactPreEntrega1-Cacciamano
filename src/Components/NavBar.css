@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+
+.navbar{
+    background-color: rgb(243, 243, 153) !important;
+    min-height: 20vh;
+    padding-bottom: 30px;
+}
+
+.nav-link{
+    color: #6b585d !important;
+    font-family: 'Yeseva One', cursive;
+}
+.nav-link:hover {
+    background-color: #cac2c4;
+    border-radius: 15px;
+    transform: scale(1.1);
+    transition: color 1s, transform 0.5s;
+}
+
+.sections-Padre{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.section2{
+    margin: auto;
+    font-size: 20px;
+}
+
+.carrito{
+    list-style: none;
+    font-size: 22px;
+   
+}
