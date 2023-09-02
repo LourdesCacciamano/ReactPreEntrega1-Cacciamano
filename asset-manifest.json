@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ReactPreEntrega1-Cacciamano/static/css/main.b66258a4.css",
+    "main.js": "/ReactPreEntrega1-Cacciamano/static/js/main.f145996e.js",
+    "static/js/787.46493d11.chunk.js": "/ReactPreEntrega1-Cacciamano/static/js/787.46493d11.chunk.js",
+    "static/media/gerbera.jpg": "/ReactPreEntrega1-Cacciamano/static/media/gerbera.93802e22a46bf6147dcd.jpg",
+    "static/media/rosas.jpg": "/ReactPreEntrega1-Cacciamano/static/media/rosas.5c500b92d4835bc104ec.jpg",
+    "static/media/alstroemeria.jpg": "/ReactPreEntrega1-Cacciamano/static/media/alstroemeria.06255d212ec3b5365e28.jpg",
+    "static/media/logo.jpeg": "/ReactPreEntrega1-Cacciamano/static/media/logo.1adb1ecb9ee0bef4f569.jpeg",
+    "index.html": "/ReactPreEntrega1-Cacciamano/index.html",
+    "main.b66258a4.css.map": "/ReactPreEntrega1-Cacciamano/static/css/main.b66258a4.css.map",
+    "main.f145996e.js.map": "/ReactPreEntrega1-Cacciamano/static/js/main.f145996e.js.map",
+    "787.46493d11.chunk.js.map": "/ReactPreEntrega1-Cacciamano/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b66258a4.css",
+    "static/js/main.f145996e.js"
+  ]
+}
