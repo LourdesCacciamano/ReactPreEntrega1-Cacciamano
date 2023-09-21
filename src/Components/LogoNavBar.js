@@ -4,7 +4,9 @@ const LogoNavBar = () => {
     const stylelogo = {
         width:"100px",
         height:"80px",
-        borderRadius:"30px"
+        borderRadius:"20px",
+        marginTop: "10px",
+        marginLeft: "10px"
     }
   return (
     <div>
