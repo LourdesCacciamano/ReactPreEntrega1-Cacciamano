@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+    
+}
+.contError{
+    background-color: rgb(235, 115, 115);
+    margin: auto;
+   
+}
+
+.error{
+    color: antiquewhite;
+}
+.paguina{
+    color: black;
+}

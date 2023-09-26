@@ -1,50 +1,92 @@
+ @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
 .container{
     display: flex;
-    background-color: rgb(205, 207, 189);
     max-width: 120vw;
 }
 .card{
     width: 350px;
-    height: 630px;
-    margin: 20px;
-    background-color: #faffb5;
+    height: 660px;
+    margin: 44px;
+    background-color: #d9c87e;
    
 }
-.card-img-top{
-    width: 300px;
-    padding: 10px;
+
+
+
+/* ITEM COUNT */
+.btnCount{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15px;
+}
+.btnAgregar{
+    font-size: 15px;
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+
+/* ITEM DETAIL */
+.detail{
+    margin: auto;
+   
+}
+.deta{
+    background-color: #d9c87e;
+    border-radius: 15px;
     margin: auto;
 }
-.card-img-top:hover{
-    transform: scale(1.2);
+.detailImg{
+    width: 1000px;
+    margin-top: 10px;
+}
+.detailName{
+    font-family:'Playfair Display', serif;
+    color: #8d6205;
+    padding: 5px;
+}
+.detailDescrip{
+    font-family: 'Manrope', sans-serif;
+    color: #000000;
+    padding-left: 5px;
+}
+.detailPrice{
+    font-family: 'Manrope', sans-serif;
+    color: #0ea30e;
+    font-weight: bold;
+    padding-left: 5px;
+}
+.detailStock{
+    padding-left: 5px;
+
+}
+
+
+
+
+/* ITEM */
+.itemImg{
+    margin-top: 10px;
+}
+.itemImg:hover{
+    transform: scale(1.1);
     transition: 1s;
 }
-.name{
-    color: #686937;
-    font-size: 35px;
-    background-color: #d8cc6b;
-    border-radius: 10px;
-    padding: 2px;
-   text-align: center;
-   margin-bottom: 10px;
+.itemName{
+    font-family:'Playfair Display', serif;
+    color: #8d6205;
+    font-size: 30px;
 }
-.description{
-    text-align: center;
-    color: #484848;
+.itemDescrip{
+    color: black;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
 }
-.stock{
-    text-align: center;
-    color: #484848;
-}
-.price{
-    text-align: center;
-    color: #14c12e;
-}
-.agregar{
-    margin-left: 20px;
-}
-.botones{
-    display: flex;
-    justify-content: space-around;
-    align-items: flex-end;
+.itemPrice{
+    font-family: 'Manrope', sans-serif;
+    font-size: 30px;
+    color: #0ea30e;
 }
