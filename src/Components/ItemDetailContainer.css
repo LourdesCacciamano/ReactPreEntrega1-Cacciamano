@@ -10,6 +10,7 @@
     height: 660px;
     margin: 44px;
     background-color: #d9c87e;
+    position: static;
    
 }
 
@@ -42,6 +43,7 @@
 .detailImg{
     width: 1000px;
     margin-top: 10px;
+    border-radius: 10px;
 }
 .detailName{
     font-family:'Playfair Display', serif;
@@ -63,13 +65,29 @@
     padding-left: 5px;
 
 }
+.linkTerminarCompra{
+text-decoration: none;
+font-family:'Playfair Display', serif;
+color: #5f3702;
+font-size: 24px;
+margin: 550px;
+}
+.linkTerminarCompra:hover{
+    transition: .5s;
+    color: #a39582;
+}
 
 
 
 
 /* ITEM */
+.container{
+    display: flex;
+    flex-direction: column-reverse;
+}
 .itemImg{
     margin-top: 10px;
+    border-radius: 10px;
 }
 .itemImg:hover{
     transform: scale(1.1);
@@ -90,3 +108,5 @@
     font-size: 30px;
     color: #0ea30e;
 }
+
+

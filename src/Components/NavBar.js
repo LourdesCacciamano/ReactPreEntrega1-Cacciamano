@@ -1,7 +1,7 @@
 import React from 'react'
 import CartWidget from './CartWidget'
 import LogoNavBar from "./LogoNavBar"
-import {Link, NavLink} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 
 const NavBar = () => {
   return (

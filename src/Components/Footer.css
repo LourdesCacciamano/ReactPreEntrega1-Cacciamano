@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+.footer{
+    background-color: rgb(243, 243, 153) !important;
+    width: 100%;
+    height: 35vh;
+}
+.logoFooter{
+    width: 80px;
+    border-radius: 20px;
+    margin: auto;
+}
+.pAndImg{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.info{
+    font-size: 20px;
+    font-family: 'Yeseva One', cursive;
+}

@@ -1,3 +1,16 @@
+##Bienvenidos a mi Primer e-commerce: Flower´s Naturals.
+###Esta app brinda distintos tipos de flores naturales(Rosas,Gerberas,Alstroemerias) y ramos preparados para regalar. Cuenta con un inicio con todos los productos y 3 secciones separando a los distintos tipos de flores por sus nombres. Ademas tiene una seccion de Carrito de compra, el cual te muestra todos los productos que has agregado en el y te calcula el precio final a pagar. Para poder confirmar la compra deberas rellenar un formulario con datos personales el cual te dara un numero de orden mediante el cual podras hacer los reclamos que sean necesarios. 
+
+###Extenciones que Utilizé:
+-Boostrap: Lo necesite para crear el Navbar y Footer, ademas para utilizar algunas clases y asi poder ahorrarme tiempo. Como tambien la parte de iconos para el carrito de compra.
+-react-router-dom : Lo utilize para poder crear las rutas de todas las secciones de mi paguina, y contar con una mejor navegabilidad.
+-Toastify: La use para mostrar en los formularios de checkout cuando no se hayan completado todoas los cambos o los emails no coincidad.
+-Sweet Alert2 : La utilize para el mensaje de agradecimiento por la compra y dictar el numero de orden. Le pone mas estilo a la paguina y asi lograr que tengas una buena interactividad con nuestra aplicacion.
+-Firebase: Lo utilize para poder cargar todos los productos de mi enprendemineto en la app.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+

@@ -12,8 +12,9 @@
     font-size: 50px;
     border-radius: 20px;
     width: 700px;
-    height: 100px;
+   line-height: 15vh;
    margin: auto;
+   margin-top: 150px;
    padding: 15px;
-  
+   box-shadow: #e8ff8a 5px 10px 5px;
 }
